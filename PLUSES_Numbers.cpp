@@ -411,7 +411,6 @@ int main()														//Ну типа main ()
 
 
 
-
 	int vernu_kol_deleniy (int MD, int prostoe)
 	{
 	int sh = 0
